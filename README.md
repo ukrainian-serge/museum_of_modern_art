@@ -16,7 +16,6 @@ There are great packages(numpy, pandas, etc.) for data analysis but in this proj
 In this project we shall :
 
 ## Clean the dataset:
-In below cells we'll do a series of cleaning approaches:
 
 - Check length of each row and delete outliers to avoid indexing problems.
 - Because many artworks(rows) have multiple data per index(multiple artists) associated with them, we'll convert them(index=1 through index=8) to lists.
