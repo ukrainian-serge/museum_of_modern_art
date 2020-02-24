@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./museum-modern-art-moma.jpg" alt="logo" width="540" height="522"/>
+</p>
+
 # Museum of Modern Art Analysis
 *Moma dataset analyzed with python and its packages*
 ---
